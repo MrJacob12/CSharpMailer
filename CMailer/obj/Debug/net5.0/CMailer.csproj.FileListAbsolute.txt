@@ -1,0 +1,16 @@
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\bin\Debug\net5.0\CMailer.exe
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\bin\Debug\net5.0\CMailer.deps.json
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\bin\Debug\net5.0\CMailer.runtimeconfig.json
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\bin\Debug\net5.0\CMailer.runtimeconfig.dev.json
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\bin\Debug\net5.0\CMailer.dll
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\bin\Debug\net5.0\ref\CMailer.dll
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\bin\Debug\net5.0\CMailer.pdb
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\obj\Debug\net5.0\CMailer.csprojAssemblyReference.cache
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\obj\Debug\net5.0\CMailer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\obj\Debug\net5.0\CMailer.AssemblyInfoInputs.cache
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\obj\Debug\net5.0\CMailer.AssemblyInfo.cs
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\obj\Debug\net5.0\CMailer.csproj.CoreCompileInputs.cache
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\obj\Debug\net5.0\CMailer.dll
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\obj\Debug\net5.0\ref\CMailer.dll
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\obj\Debug\net5.0\CMailer.pdb
+E:\Programowanie\Moje Projekty\Skrypty\[C#]\CMailer\CMailer\obj\Debug\net5.0\CMailer.genruntimeconfig.cache
